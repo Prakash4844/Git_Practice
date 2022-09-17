@@ -1,3 +1,1 @@
-# Git_Practice
-Git repository to test/learn git/github 
-
+# Git Practice Repository to learn and experiment with git and github.
