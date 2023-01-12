@@ -2,4 +2,9 @@ Test text
 1
 13
 ye bhi thik hai
+<<<<<<< HEAD
 git bash test
+=======
+This is a Local Change.
+My Name is Sagar Goswami
+>>>>>>> e0a91965bc8c76feb8011b7298935a0ed9ce7038
